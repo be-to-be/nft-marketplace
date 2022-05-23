@@ -9,10 +9,10 @@ Supports the following marketplace configurations:
 * Multi collection marketplace
 * Multi currency marketplace
 
-Forked and modified from Candy Machine V2 repo: https://github.com/Fulgurus/candy-machine-v2-responsive-ui
 
-<img width="1363" alt="Screen Shot 2022-04-16 at 3 23 54 PM" src="https://user-images.githubusercontent.com/89616076/163665962-f8f9fa00-2143-4234-bb35-13955b55220e.png">
 
+<!-- <img width="1363" alt="Screen Shot 2022-04-16 at 3 23 54 PM" src="https://user-images.githubusercontent.com/89616076/163665962-f8f9fa00-2143-4234-bb35-13955b55220e.png"> -->
+<img src="./screenshots/Screenshot_1.png">
 **Prod-ready Responsive UI** which can be easily customized in 5mn.
 
 All Candy Machine V2 functionalities are implemented, auto detected and maintained up-to-date:
